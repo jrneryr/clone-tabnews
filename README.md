@@ -1,2 +1,4 @@
 # clone-tabnews
-Um projeto para aprender a fazer do inicio ao fim todo processo de desenvolvimento.
+A project to test my skills in all process from develop to deploy.
+
+This project is being done leaning with the curso.dev
